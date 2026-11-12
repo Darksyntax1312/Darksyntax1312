@@ -46,7 +46,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 ### ⚙️ Backend & Databases
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -79,9 +78,6 @@
 ## 📚 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-Learning-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTTP_&_Streams-Exploring-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-Coming_Soon-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authentication-Coming_Soon-red?style=for-the-badge" />
 </div>
 
